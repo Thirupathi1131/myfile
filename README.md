@@ -24,8 +24,9 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 
 ## 📫 How to Reach Me
 
-- **Email:** thirupathidurgam@gmail.com *(replace with your real email if different)*
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com)
+- **Email:** thirupathidurgam01@gmail.com
+- **LinkedIn:https://www.linkedin.com/in/durgam-thirupathi/
+- phone no: 9100744706
 
 ---
 
